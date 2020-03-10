@@ -1,0 +1,26 @@
+{
+  "id": "90f4a734-efa0-4336-bdfa-f5bc532b5841",
+  "name": "Logging",
+  "publisher": "Comsol Unternehmenslösungen AG",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "Comsol Cloud Logging",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "http://static.Comsol.ag/logging/docu/",
+  "url": "https://www.Comsol.ag",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "14.0.0.0",
+  "application": "14.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "contextSensitiveHelpUrl": "http://static.Comsol.ag/logging/docu/",
+  "showMyCode": true,
+  "runtime": "3.0"
+}
